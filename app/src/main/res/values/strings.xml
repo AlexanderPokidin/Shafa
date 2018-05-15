@@ -3,4 +3,6 @@
     <string name="shafa">Hello Shafa!</string>
     <string name="camera">Camera</string>
     <string name="i_m_the_second">I\'m the Second!</string>
+    <string name="open_camera_1">Open camera 1</string>
+    <string name="open_camera_2">Open camera 2</string>
 </resources>
