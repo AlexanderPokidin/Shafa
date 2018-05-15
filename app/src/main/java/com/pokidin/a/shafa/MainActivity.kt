@@ -12,9 +12,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val button: Button = findViewById(R.id.btn_camera)
+        val button: Button = findViewById(R.id.btnCamera)
         button.setOnClickListener {
-            val intent = Intent(this, SecondActivity::class.java)
+            val intent = Intent(this, CameraActivity2::class.java)
             startActivity(intent)
         }
 
